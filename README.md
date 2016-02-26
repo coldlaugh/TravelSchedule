@@ -37,7 +37,7 @@ Date   |  Day | Place to Stay | To Do
 2.29   |   Mon   | Orlando |Univ. Stu.
 3.1 | Tue | Orlando |Uni. Stu.
 3.2 | Wed | Orlando | Uni. Stu.
-3.3 | Thus | Miami | RoadTrip to key west
+3.3 | Thus | Miami | RoadTrip to key west, NBA game
 3.4 | Fri | Ann Arbor | Flight Back
 
 # Trafic time
@@ -45,3 +45,8 @@ Date   |  Day | Place to Stay | To Do
 + Orlando -> National Park : <4 hour
 + Orlando -> Key west : 6.5 hour
 + Miami -> Key west: 3.5 hour
+
+# Addresses
++ 4655 Cason cove drive, 2823 apartment. Orlando, Fl 32811
++ 298 Northeast 87th Street, Miami, FL 33138, USA
++ 5520 L B McLeod Rd, Orlando, FL 32811 : Enterprise
