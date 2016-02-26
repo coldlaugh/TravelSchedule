@@ -30,13 +30,13 @@
 
 # Trip
 
-Date   |  Day | Place | To Do
+Date   |  Day | Place to Stay | To Do
 --------|------|------|------
-2.27    |   Sat | Orlando|Uni. Stu.
-2.28     |   Sun | Orlando|Other or Uni Stu.
-2.29   |   Mon   | Orlando |Road Trip to Miami, City Tour
+2.27    |   Sat | Orlando|Mirritti Island
+2.28     |   Sun | Orlando|RoadTrip to Miami beach, Miami City Tour
+2.29   |   Mon   | Orlando |Univ. Stu.
 3.1 | Tue | Orlando |Uni. Stu.
-3.2 | Wed | Orlando | RoadTrip to National Park
+3.2 | Wed | Orlando | Uni. Stu.
 3.3 | Thus | Miami | RoadTrip to key west
 3.4 | Fri | Ann Arbor | Flight Back
 
