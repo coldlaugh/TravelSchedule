@@ -32,7 +32,7 @@
 
 Date   |  Day | Place to Stay | To Do
 --------|------|------|------
-2.27    |   Sat | Orlando|Merritti Island
+2.27    |   Sat | Orlando|Merritt Island
 2.28     |   Sun | Orlando|RoadTrip to Miami beach, Miami City Tour
 2.29   |   Mon   | Orlando |Univ. Stu.
 3.1 | Tue | Orlando |Uni. Stu.
