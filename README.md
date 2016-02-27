@@ -50,3 +50,5 @@ Date   |  Day | Place to Stay | To Do
 + 4655 Cason cove drive, 2823 apartment. Orlando, Fl 32811
 + 298 Northeast 87th Street, Miami, FL 33138, USA
 + 5520 L B McLeod Rd, Orlando, FL 32811 : Enterprise
++ 5905 S Kirkman Rd, Orlando, Florida - M04 : Budget
++ 
